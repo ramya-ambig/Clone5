@@ -1,1 +1,2 @@
 "Login Info"
+"Logout Info"
